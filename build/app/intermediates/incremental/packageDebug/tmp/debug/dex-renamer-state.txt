@@ -1,0 +1,4 @@
+#Sun Nov 27 23:22:12 IST 2022
+base.0=/Users/drnitashahasteer/Developer/feelmeall/FeelMeal/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

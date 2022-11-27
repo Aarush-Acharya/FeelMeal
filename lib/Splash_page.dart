@@ -18,7 +18,6 @@ class _SplashScreenState extends State<SplashScreen>
 
   void _navigateAfter() {
     print("done timer");
-
     // Get.to(MyHomePage());
     Navigator.of(context).push(
         MaterialPageRoute(builder: (BuildContext context) => MyHomePage()));
