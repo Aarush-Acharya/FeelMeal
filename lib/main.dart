@@ -149,22 +149,21 @@ class _MyHomePageState extends State<MyHomePage> {
                                   ]),
                                 )),
                             Obx(() => Visibility(
-                                  visible: recommendation.value != null,
-                                  child: Column(children: [
-                              SizedBox(height: 40, width: 50),
-                              Text(
-                                "Month with the Highest Probability",
-                                style: TextStyle(
-                                    color: Colors.grey,
-                                    fontSize: 20,
-                                    fontFamily: 'Roboto'),
-                              ),
-                              SizedBox(width: 20, height: 20),
-                              Obx(() => Text(
-                                  recommendation.value?.month.toString() ??
-                                      '')),
-                            ])
-                                )),
+                                visible: recommendation.value != null,
+                                child: Column(children: [
+                                  SizedBox(height: 40, width: 50),
+                                  Text(
+                                    "Month with the Highest Probability",
+                                    style: TextStyle(
+                                        color: Colors.grey,
+                                        fontSize: 20,
+                                        fontFamily: 'Roboto'),
+                                  ),
+                                  SizedBox(width: 20, height: 20),
+                                  Obx(() => Text(
+                                      recommendation.value?.month.toString() ??
+                                          '')),
+                                ]))),
                           ])
                   ])
                 ],
