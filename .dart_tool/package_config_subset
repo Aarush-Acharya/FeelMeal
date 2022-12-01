@@ -66,6 +66,10 @@ file_picker
 2.17
 file:///Users/drnitashahasteer/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/file_picker-5.2.2/
 file:///Users/drnitashahasteer/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/file_picker-5.2.2/lib/
+flutter_app_name
+2.12
+file:///Users/drnitashahasteer/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_app_name-0.1.1/
+file:///Users/drnitashahasteer/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_app_name-0.1.1/lib/
 flutter_launcher_icons
 2.12
 file:///Users/drnitashahasteer/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_launcher_icons-0.11.0/
@@ -91,9 +95,9 @@ http_parser
 file:///Users/drnitashahasteer/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.2/
 file:///Users/drnitashahasteer/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.2/lib/
 image
-2.15
-file:///Users/drnitashahasteer/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image-3.2.2/
-file:///Users/drnitashahasteer/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image-3.2.2/lib/
+2.12
+file:///Users/drnitashahasteer/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image-3.1.3/
+file:///Users/drnitashahasteer/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image-3.1.3/lib/
 js
 2.16
 file:///Users/drnitashahasteer/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/js-0.6.4/
@@ -167,9 +171,9 @@ win32
 file:///Users/drnitashahasteer/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/win32-3.1.1/
 file:///Users/drnitashahasteer/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/win32-3.1.1/lib/
 xml
-2.17
-file:///Users/drnitashahasteer/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/xml-6.1.0/
-file:///Users/drnitashahasteer/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/xml-6.1.0/lib/
+2.16
+file:///Users/drnitashahasteer/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/xml-5.4.1/
+file:///Users/drnitashahasteer/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/xml-5.4.1/lib/
 yaml
 2.12
 file:///Users/drnitashahasteer/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/yaml-3.1.1/
