@@ -15,7 +15,7 @@ class _SplashScreenState extends State<SplashScreen>
     with TickerProviderStateMixin {
   late Animation<double> animation;
   late AnimationController controller;
-
+  
   void _navigateAfter() {
     print("done timer");
     // Get.to(MyHomePage());
